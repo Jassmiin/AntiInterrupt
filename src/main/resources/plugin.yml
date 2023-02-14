@@ -1,0 +1,6 @@
+name: AntiInterrupt
+version: '${project.version}'
+main: me.jass.antiinterrupt.AntiInterrupt
+api-version: 1.19
+authors: [ Jass ]
+description: Blocks Interrupters in a 1v1 PvP Setting
