@@ -1,5 +1,5 @@
 name: AntiInterrupt
-version: '${project.version}'
+version: '1.0-SNAPSHOT'
 main: me.jass.antiinterrupt.AntiInterrupt
 api-version: 1.19
 authors: [Jass]
